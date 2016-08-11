@@ -1,0 +1,20 @@
+&Object with process no. 1 was created
+&Object with process no. 2 was created
+&Object with process no. 3 was created
+&Object with process no. 4 was created
+1Thread 2: Object with process no. 2 was borrowed
+1Thread 1: Object with process no. 1 was borrowed
+1Thread 1: Object with process no. 1 was returned
+1Thread 3: Object with process no. 3 was borrowed
+1Thread 4: Object with process no. 4 was borrowed
+1Thread 2: Object with process no. 2 was returned
+1Thread 4: Object with process no. 4 was returned
+1Thread 5: Object with process no. 1 was borrowed
+1Thread 5: Object with process no. 1 was returned
+1Thread 6: Object with process no. 3 was borrowed
+1Thread 6: Object with process no. 3 was returned
+1Thread 7: Object with process no. 2 was borrowed
+1Thread 7: Object with process no. 2 was returned
+1Thread 8: Object with process no. 4 was borrowed
+1Thread 8: Object with process no. 4 was returned
+1Thread 3: Object with process no. 3 was returned
