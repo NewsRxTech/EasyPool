@@ -1,4 +1,4 @@
-package easypool;
+package com.newsrxtech.easypool;
 
 public class ExportingProcess {
 

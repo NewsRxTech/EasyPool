@@ -1,4 +1,4 @@
-package easypool;
+package com.newsrxtech.easypool;
 
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.Executors;

@@ -1,8 +1,10 @@
-package easypool;
+package com.newsrxtech.easypool;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.newsrxtech.easypool.ObjectPool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

@@ -1,4 +1,6 @@
-package easypool;
+package com.newsrxtech.easypool;
+
+import com.newsrxtech.easypool.ObjectPool;
 
 public class ExportingTask implements Runnable {
 
